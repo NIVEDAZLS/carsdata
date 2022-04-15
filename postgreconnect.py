@@ -26,4 +26,3 @@ def runquery(sql):
         #Close Cursor and Database Connection
         cursor.close()
         connection.close()
-        
